@@ -1,0 +1,13 @@
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\BDD-ORM.dll.config
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\BDD-ORM.dll
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\BDD-ORM.pdb
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\EntityFramework.dll
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\EntityFramework.xml
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\obj\Debug\BDD.ORM.csprojAssemblyReference.cache
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\obj\Debug\BDD.ORM.csproj.CopyComplete
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\obj\Debug\BDD-ORM.dll
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\obj\Debug\BDD-ORM.pdb
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\obj\Debug\BDD_ORM.Migrations.AddIntervention.resources
+C:\Users\Coubrun\Source\Repos\devoir-ORM\devoir-ORM\BDD-ORM\obj\Debug\BDD.ORM.csproj.GenerateResource.cache
